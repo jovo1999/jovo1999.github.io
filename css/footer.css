@@ -1,0 +1,72 @@
+footer{
+	overflow:hidden;
+}
+.provides{
+	font-family:Tahoma;
+	display:block;
+	width:100%;
+	background: url(../img/providesbg1.3.jpg) no-repeat;
+	background-size:cover;
+	border-top:3px solid #959595;
+	border-bottom:3px solid #959595;
+	color:#fff;
+	text-align:center;
+	padding:20px 0;
+    background-attachment: fixed;
+}
+.provides ul li{
+	width:30%;
+	display:inline-flex;
+	margin:20px;
+}
+.provides ul{
+	margin:10px auto;
+	max-width:1330px;
+	text-align:center;
+}
+.brands img{
+	width:30em;
+	height:80px;
+}
+.brands{
+	display:table;
+	margin:0 auto;
+	text-align:center;
+	/* height:40px; */
+}
+footer li{
+	display:inline-table;
+}
+.end li{
+	margin:40px;
+}
+.end{
+	display:table;
+	margin:0 auto;
+}
+.footer_images img {
+    width: 118px;
+	height: 65px;
+	border:1px solid #959595;
+}
+.contuctUS{
+	overflow:hidden;
+}
+.contuctUS img{
+	float:left;
+}
+.contuctUS p{
+	display:table;
+	box-sizing:border-box;
+	margin-bottom:5px;
+}
+.Creator{
+	display:table;
+	border-top:2px solid #959595; 
+	margin:0 auto;
+}
+.Creator img{
+	width:140px;
+}
+
+

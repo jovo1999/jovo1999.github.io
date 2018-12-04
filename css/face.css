@@ -1,0 +1,97 @@
+.face{
+	overflow:hidden;
+}		
+							/*FACE right*/
+.face_top{
+	max-width:854px;
+	overflow:hidden;
+	box-sizing:border-box;
+	margin:5px;
+}								/*face slider*/	
+.face_slider{
+	box-sizing:border-box;
+	border:2px solid #b6b6b6;
+	width:100%;
+	height:340px;
+	background: url(../img/forwomen3.1.jpg) no-repeat;
+	background-size:cover;
+	overflow:hidden;
+}	
+.slide_text{
+	font-family:Cambria;
+	color:#D63939;
+	margin-left:19%;
+	display:table;
+}
+.slide_text h2,.slide_text p{
+	background-color: rgba(252, 252, 252, 0.34);
+	font-weight:normal;
+	display:table;
+}
+.slide_text p{
+	font-size:1em;
+}
+.femail{
+	background: url(../img/forwomen2.jpg) no-repeat;
+	
+}
+.mail{
+	background: url(../img/forman1.jpg) no-repeat;
+}
+.femail,.mail{
+    background-size: cover;
+    width: 200px;
+    height: 100px;
+    margin: 6px;
+    position: relative;
+    bottom: -34px;
+    float: left;
+    border: 2px solid #fff;
+	cursor: pointer;
+	text-align:center;
+}
+.femail:hover,.mail:hover{
+	border-color:#D64B4B;
+}
+.choice p{
+	padding:2px;
+	background-color:#fff;
+}
+.blog_sorting{
+	margin-top:10px;
+	padding: 5px;
+	border: 1px solid silver;
+}
+.blog_sorting p{
+	display:inline;
+}
+.blog_sorting ul{
+	display:inline-table;
+	overflow:hidden;
+	margin-left:1%;
+}
+.blog_sorting ul li{
+	display: inline;
+}	
+.blog_sorting img{
+	margin:0 5px;
+	float:right;
+	cursor: pointer;
+}					
+											/*---------------------------------------PRODUCTS------------------------------------*/
+											
+											
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
